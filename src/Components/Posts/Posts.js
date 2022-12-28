@@ -20,15 +20,15 @@ function Posts() {
               <Heart></Heart>
             </div>
             <div className="image">
-              <img src="../../../Images/R15V3.jpg" alt="" />
+              <img src="../../../Images/royal-enfield-classic-350-signals-1535613977.jpeg" alt="" />
             </div>
             <div className="content">
-              <p className="rate">&#x20B9; 250000</p>
+              <p className="rate">&#x20B9; 150000</p>
               <span className="kilometer">Two Wheeler</span>
-              <p className="name"> YAMAHA R15V3</p>
+              <p className="name"> Classic 350-Signals</p>
             </div>
             <div className="date">
-              <span>Tue May 04 2021</span>
+              <span>Wed Dec 28 2022</span>
             </div>
           </div>
         </div>
@@ -43,15 +43,15 @@ function Posts() {
               <Heart></Heart>
             </div>
             <div className="image">
-              <img src="../../../Images/R15V3.jpg" alt="" />
+              <img src="../../../Images/Bullet.png" alt="" />
             </div>
             <div className="content">
-              <p className="rate">&#x20B9; 250000</p>
+              <p className="rate">&#x20B9; 125000</p>
               <span className="kilometer">Two Wheeler</span>
-              <p className="name"> YAMAHA R15V3</p>
+              <p className="name"> Bullet 350</p>
             </div>
             <div className="date">
-              <span>10/5/2021</span>
+              <span>28/12/2022</span>
             </div>
           </div>
         </div>
