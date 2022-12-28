@@ -19,8 +19,9 @@ export default function Signup() {
           username: username,
           phone: phone
         }).then(()=>{
-          console.log("Worked");
-          history.go("/login")
+          history.push("/login")
+        }).catch(error=>{
+          console.log(error);
         })
       })
     })
